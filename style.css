@@ -1,4 +1,21 @@
-body{
-    background-color: rgb(240, 164, 240);
+body
+{
+    background: rgb(240, 164, 240);
     font-family: Georgia, 'Times New Roman', Times, serif;
+}
+h1
+{
+    color: rgb(255, 255, 255); 
+}
+.assignment
+{
+    background: rgb(136,109,170);
+    display: flex;
+    margin: 20px;
+    padding: 10px;
+}
+.assignment img
+{
+    width:200px;
+    padding: 10px;
 }
